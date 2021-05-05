@@ -1,0 +1,3 @@
+# gpprof
+
+ go pprof
